@@ -1,6 +1,8 @@
 # Digital Forensics Lab
 
-Laboratório de Perícia Digital desenvolvido para estudos em Cibersegurança e Computação Forense.
+Digital Forensics laboratory developed for cybersecurity and computer forensics studies.
+
+This repository contains simulated investigation cases, evidence analysis, chain of custody documentation and forensic reports.
 
 ## Objetivos
 
@@ -33,7 +35,7 @@ Cada caso contém:
 
 | Caso | Descrição | Status |
 |-------|------------|---------|
-| 001 | Funcionário suspeito de vazamento de dados | Concluído |
+| 001 | Funcionário suspeito de vazamento de dados | Status: Laboratório em desenvolvimento|
 
 Status: Em desenvolvimento
 
