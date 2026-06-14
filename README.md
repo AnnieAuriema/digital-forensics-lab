@@ -18,6 +18,17 @@ Laboratório de Perícia Digital desenvolvido para estudos em Cibersegurança e 
 - Volatility
 - Wireshark
 
+## Sobre o Projeto
+
+Este laboratório foi criado para documentar estudos práticos de Computação Forense e Resposta a Incidentes, simulando cenários reais de investigação digital.
+
+Cada caso contém:
+- Descrição do incidente
+- Linha do tempo dos eventos
+- Cadeia de custódia
+- Evidências coletadas
+- Relatório técnico
+
 ## Casos Disponíveis
 
 | Caso | Descrição | Status |
