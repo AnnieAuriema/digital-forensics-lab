@@ -18,9 +18,11 @@ Laboratório de Perícia Digital desenvolvido para estudos em Cibersegurança e 
 - Volatility
 - Wireshark
 
-## Casos
+## Casos Disponíveis
 
-### Caso 001 – Funcionário Suspeito de Vazamento de Dados
+| Caso | Descrição | Status |
+|-------|------------|---------|
+| 001 | Funcionário suspeito de vazamento de dados | Concluído |
 
 Status: Em desenvolvimento
 

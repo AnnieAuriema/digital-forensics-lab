@@ -36,4 +36,10 @@ Investigar a suspeita de cópia não autorizada de documentos corporativos para 
 
 ## Conclusão
 
-Investigação em andamento.
+## Conclusão
+
+A análise dos registros identificou a conexão de um dispositivo USB durante o período investigado.
+
+Também foram observados acessos a documentos corporativos sensíveis antes da remoção do dispositivo.
+
+Os indícios sugerem possível exfiltração de dados, sendo recomendada investigação complementar e análise do dispositivo USB coletado.
